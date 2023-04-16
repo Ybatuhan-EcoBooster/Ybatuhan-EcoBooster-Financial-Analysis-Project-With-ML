@@ -17,16 +17,6 @@ I used [Plotly Graph](https://plotly.com/python/plotly-express/) for visualizati
 
 
 
-  
-## Road Map 🗺
-
-- 🔜 I will update of Financial Ratio
-
-- 🔜 I will develop forecasting model
-
-- 🔜 Also, I will add other programing language for comparing.
-
-  
 ## Sources 
 
 - [Yahoo Finance Library and Alpha Vantage API Comparing In Python](https://medium.com/@BatuhanYildirim1148/yahoo-finance-library-and-alpha-vantage-api-comparing-in-python-3015fbb0be6a) 
